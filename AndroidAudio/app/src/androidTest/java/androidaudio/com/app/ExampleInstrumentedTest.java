@@ -1,4 +1,4 @@
-package noahsomeck.com.androidaudio;
+package androidaudio.com.app;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
