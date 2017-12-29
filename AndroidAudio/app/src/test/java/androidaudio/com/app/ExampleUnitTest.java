@@ -1,4 +1,4 @@
-package noahsomeck.com.androidaudio;
+package androidaudio.com.app;
 
 import org.junit.Test;
 
